@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+Location: Cambridge, UK
+
+My Favorite Fluorophore/Metal-Isotope: AF488
+
+Previous Coding Experience: Repeatedly Calling IT
+
+What I Hope to Get From This Course: A cleaner way of assessing large datasets
 <!--
 **michellepatinogaillez/michellepatinogaillez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
