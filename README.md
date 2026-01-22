@@ -13,4 +13,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+Location: Cambridge, UK
+
+My Favorite Fluorophore/Metal-Isotope: AF488
+
+Previous Coding Experience: Repeatedly Calling IT
+
+What I Hope to Get From This Course: A cleaner way of assessing large datasets
+
 -->
